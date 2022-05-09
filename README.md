@@ -1,8 +1,8 @@
 - Revoluzion RVZ is a DeFi Token.
 - Future ecosystem development
 - Swap/dex system with chart integration
-- Whitelist marketplace with advertising spot
-- NFT airdrop for whitelist function
+- Decentralized Finance Academy
+- Audit Services
 - Web base Play to Earn NFT game called Apocalypse
 
 <!---
