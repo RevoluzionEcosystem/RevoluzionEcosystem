@@ -6,14 +6,14 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 
 A company that offers a variety of services:
 
-Audits
-Smart Contract Development
-DApp Development
-Android / IoS Developmnent
-KYC Services
-Decentralized Exchange
-Launchpad Protocol
-Token Lock Protocol
+  Audits<br>
+  Smart Contract Development<br>
+  DApp Development<br>
+  Android / IoS Developmnent<br>
+  KYC Services<br>
+  Decentralized Exchange<br>
+  Launchpad Protocol<br>
+  Token Lock Protocol<br>
 
 <!---
 RevoluzionToken/RevoluzionToken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
