@@ -57,3 +57,5 @@ Second Drop Randomizer : 0x9b69c2Eff42D839720Ad8Cb506943712BF2561B3
 Luzion Protocol Token : 0x291C4e4277F8717e0552D108dBd7f795a9fEF016
 
 Luzion Protocol Dividend : 0xd77d1fACAEf1BeAE2Ce8AC4CC25495460AaED0d2
+
+### <i>The Revoluzion smart contracts only include those listed here. Be careful not to interact with any other smart contracts that are not listed.</i>
