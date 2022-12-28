@@ -28,7 +28,7 @@ A company that offers a variety of services:
   Marketing/Advertising<br>
 
   
-[Website](https://revoluzion.io) | [DAPpp](https://revoluzion.app) | [Telegram](https://t.me/RevoluzionEcosystem) | [Twitter](https://twitter.com/RevoluzionEco) | [CoinMarketCap](https://coinmarketcap.com/community/profile/Revoluzion)
+[Website](https://revoluzion.io) | [DApp](https://revoluzion.app) | [Telegram](https://t.me/RevoluzionEcosystem) | [Twitter](https://twitter.com/RevoluzionEco) | [CoinMarketCap](https://coinmarketcap.com/community/profile/Revoluzion)
 
 ![Revoluzion GitHub stats](https://github-readme-stats.vercel.app/api?username=RevoluzionEcosystem&theme=great-gatsby&show_icons=true)
 
