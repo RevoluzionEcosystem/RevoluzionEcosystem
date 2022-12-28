@@ -26,9 +26,11 @@ A company that offers a variety of services:
   Token Lock Protocol<br>
   NFT Design/Sketch Artwork<br>
   Marketing/Advertising<br>
-
   
 [Website](https://revoluzion.io) | [DApp](https://revoluzion.app) | [Telegram](https://t.me/RevoluzionEcosystem) | [Twitter](https://twitter.com/RevoluzionEco) | [CoinMarketCap](https://coinmarketcap.com/community/profile/Revoluzion)
 
-![Revoluzion GitHub stats](https://github-readme-stats.vercel.app/api?username=RevoluzionEcosystem&theme=gotham&show_icons=true)
+![Revoluzion GitHub stats](https://github-readme-stats.vercel.app/api?username=RevoluzionEcosystem&theme=gotham&show_icons=true)<br>
+
+### Revoluzion Recent Activity
+<!--START_SECTION:activity-->
 
