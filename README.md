@@ -8,7 +8,7 @@ The future of the multi-dApp ecosystem is here! Revoluzion provides the best of 
 
 Features like launchpad, DEX swap and audit/smart contract services allow users to easily create and maintain their project without ever having to worry about hosting or scaling. Some of the best features have already been implemented and there's lots more to come!<br>
 
-## A company that offers a variety of services:
+### A company that offers a variety of services:
 
   Audits<br>
   Smart Contract Development<br>
