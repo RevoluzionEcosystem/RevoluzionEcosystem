@@ -28,6 +28,80 @@ Revoluzion offer a rewards program that allows token holders to earn automatic B
 
 By offering this rewards program, we hope to encourage long-term engagement with our project and create a strong sense of community among our token holders.
 
+{% code overflow="wrap" lineNumbers="true" %}
+```solidity
+function shouldDistribute(address shareholder) internal view returns (bool) {
+        return shareholderClaims[shareholder] + minPeriod < block.timestamp && getUnpaidEarnings(shareholder) > minDistribution;
+    }
+
+    /**
+     * @dev Distribute dividend to the shareholders and update dividend information.
+     */
+    function distributeDividend(address shareholder) internal {
+        if (shares[shareholder].amount == 0) {
+            return;
+        }
+
+        uint256 amount = getUnpaidEarnings(shareholder);
+        if (amount > 0) {
+            totalDistributed = totalDistributed.add(amount);
+            rewardToken.transfer(shareholder, amount);
+            shareholderClaims[shareholder] = block.timestamp;
+            shares[shareholder].totalRealised = shares[shareholder].totalRealised.add(amount);
+            shares[shareholder].totalExcluded = getCumulativeDividends(shares[shareholder].amount);
+        }
+    }
+
+    /**
+     * @dev Get the cumulative dividend for the given share.
+     */
+    function getCumulativeDividends(uint256 share) internal view returns (uint256) {
+        return share.mul(dividendsPerShare).div(dividendsPerShareAccuracyFactor);
+    }
+    
+    /**
+     * @dev Get unpaid dividend that needed to be distributed for the given address.
+     */
+    function getUnpaidEarnings(address shareholder) public view returns (uint256) {
+        if (shares[shareholder].amount == 0) {
+            return 0;
+        }
+
+        uint256 shareholderTotalDividends = getCumulativeDividends(shares[shareholder].amount);
+        uint256 shareholderTotalExcluded = shares[shareholder].totalExcluded;
+
+        if (shareholderTotalDividends <= shareholderTotalExcluded) {
+            return 0;
+        }
+
+        return shareholderTotalDividends.sub(shareholderTotalExcluded);
+    }
+
+    /**
+     * @dev Add the address to the array of shareholders.
+     */
+    function addShareholder(address shareholder) internal {
+        shareholderIndexes[shareholder] = shareholders.length;
+        shareholders.push(shareholder);
+    }
+
+    /**
+     * @dev Remove the address from the array of shareholders.
+     */
+    function removeShareholder(address shareholder) internal {
+        shareholders[shareholderIndexes[shareholder]] = shareholders[shareholders.length - 1];
+        shareholderIndexes[shareholders[shareholders.length - 1]] = shareholderIndexes[shareholder];
+        shareholders.pop();
+    }
+
+    function claimDividend() external {
+        distributeDividend(_msgSender());
+    }
+
+}
+```
+{% endcode %}
+
 {% hint style="info" %}
 Automated distribution of rewards occurs during every swap, the swap threshold are also dependant on volume and swap threshold reached.&#x20;
 

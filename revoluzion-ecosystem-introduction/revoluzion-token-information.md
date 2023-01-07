@@ -75,7 +75,7 @@ This helps to increase the value of the token over time and make it more attract
 ```
 {% endcode %}
 
-### Auto Add Liquidity Codes
+### <mark style="color:yellow;">Auto Add Liquidity Codes</mark>
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```solidity
