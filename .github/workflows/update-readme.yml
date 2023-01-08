@@ -18,4 +18,26 @@ jobs:
       - name: 'Update README.md from TEMPLATE.md'
         uses: RevoluzionEcosystem/RevoluzionEcosystem@main
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  metrics:
+    name: 'Update SVGs for Readme stats'
+    runs-on: ubuntu-latest
+    needs: recent-activity
+    steps:
+      - uses: lowlighter/metrics@v3.28
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Readme-Workflows
+          repo: recent-activity
+          template: markdown
+          filename: README.md
+          markdown: TEMPLATE.md
+          markdown_cache: '.github/svg_cache'
+
+          base: ""
+
+          config_octicon: yes
+
+          plugin_stargazers: yes
+          plugin_contributors: yes
