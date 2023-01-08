@@ -18,7 +18,7 @@ jobs:
       - name: 'Update README.md from TEMPLATE.md'
         uses: RevoluzionEcosystem/RevoluzionEcosystem@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
         with:
           CONFIG_FILE: 'action.yml'
   metrics:
