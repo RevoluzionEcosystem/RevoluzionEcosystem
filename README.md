@@ -32,4 +32,6 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ![Revoluzion GitHub stats](https://github-readme-stats.vercel.app/api?username=RevoluzionEcosystem&theme=gotham&show_icons=true)<br>
 
 ### Revoluzion Recent Activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
