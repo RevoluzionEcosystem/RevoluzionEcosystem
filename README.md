@@ -14,7 +14,7 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
   Smart Contract Development<br>
   PenTest Web/dApp<br>
   DApp Development<br>
-  Android / IoS Developmnent<br>
+  Android / iOS Developmnent<br>
   API Endpoints<br>
   AI Chat Support<br>
   Vault/Lock<br>
