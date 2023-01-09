@@ -1,6 +1,6 @@
 # Smart Contracts
 
-## Revoluzion Smart Contracts
+## &#x1F4D7; Revoluzion Smart Contracts
 
 Revoluzion Token : 0x7D89c67d3c4E72E8c5c64BE201dC225F99d16aCa
 
@@ -19,8 +19,10 @@ Revoluzion Payment Receiver : 0xEa54EC4f5ec49e531C795D96204501D5CAe836E9
 Revoluzion Payment Receiver / Counters : 0x8e9f166748526c42f920071cAC69B05dC83be540
 
 AirDrop : 0x157E4db6D6489583D7C312b5EA44DCFbE3D7921f
-
-## Apocalypse Smart Contracts
+</br>
+</br>
+</br>
+## &#x1F4D7; Apocalypse Smart Contracts
 
 Apocalypse Token : 0x700AfD366D8cD7CC30f17E215F83BEeaf92459DF
 
@@ -51,11 +53,15 @@ Mediator : 0x4aD21efDF4FDF151a978De5021C4938548FDc590
 Second Drop : 0x94a15028a78De808a8C6a3E0FD12a312FbA0f3BB
 
 Second Drop Randomizer : 0x9b69c2Eff42D839720Ad8Cb506943712BF2561B3
-
-## Luzion Protocol Smart Contrats
+</br>
+</br>
+</br>
+## &#x1F4D7; Luzion Protocol Smart Contrats
 
 Luzion Protocol Token : 0x291C4e4277F8717e0552D108dBd7f795a9fEF016
 
 Luzion Protocol Dividend : 0xd77d1fACAEf1BeAE2Ce8AC4CC25495460AaED0d2
-
-### <i>The Revoluzion smart contracts only include those listed here. Be careful not to interact with any other smart contracts that are not listed.</i>
+</br>
+</br>
+</br>
+### &#x1F534; <i>The Revoluzion smart contracts only include those listed here. Be careful not to interact with any other smart contracts that are not listed.</i>
