@@ -34,9 +34,9 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
-2. 📔 Created new repository [RevoluzionEcosystem/ApocalypseDocumentation](https://github.com/RevoluzionEcosystem/ApocalypseDocumentation)<br>
-3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/LuzionProtocolDocumentation](https://github.com/RevoluzionEcosystem/LuzionProtocolDocumentation)<br>
-4. 💪 Opened PR [#5005](https://github.com/DefiLlama/DefiLlama-Adapters/pull/5005) in [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters)<br>
-5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/DefiLlama-Adapters](https://github.com/RevoluzionEcosystem/DefiLlama-Adapters)<br>
+1. 🔱 Forked [RevoluzionEcosystem/ChatGPT-Telegram-Bot-1](https://github.com/RevoluzionEcosystem/ChatGPT-Telegram-Bot-1) from [harshitethic/ChatGPT-Telegram-Bot](https://github.com/harshitethic/ChatGPT-Telegram-Bot)<br>
+2. 🔱 Forked [RevoluzionEcosystem/ChatGPT-Telegram-Bot](https://github.com/RevoluzionEcosystem/ChatGPT-Telegram-Bot) from [harshitethic/ChatGPT-Telegram-Bot](https://github.com/harshitethic/ChatGPT-Telegram-Bot)<br>
+3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
+4. 📔 Created new repository [RevoluzionEcosystem/ApocalypseDocumentation](https://github.com/RevoluzionEcosystem/ApocalypseDocumentation)<br>
+5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/LuzionProtocolDocumentation](https://github.com/RevoluzionEcosystem/LuzionProtocolDocumentation)<br>
 <!--RECENT_ACTIVITY:end-->
