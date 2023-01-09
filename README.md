@@ -34,9 +34,9 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/LuzionProtocolDocumentation](https://github.com/RevoluzionEcosystem/LuzionProtocolDocumentation)<br>
-2. 💪 Opened PR [#5005](https://github.com/DefiLlama/DefiLlama-Adapters/pull/5005) in [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters)<br>
-3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/DefiLlama-Adapters](https://github.com/RevoluzionEcosystem/DefiLlama-Adapters)<br>
-4. ⬆️ Pushed 131 commit(s) to [RevoluzionEcosystem/DefiLlama-Adapters](https://github.com/RevoluzionEcosystem/DefiLlama-Adapters)<br>
-5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
+1. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
+2. 📔 Created new repository [RevoluzionEcosystem/ApocalypseDocumentation](https://github.com/RevoluzionEcosystem/ApocalypseDocumentation)<br>
+3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/LuzionProtocolDocumentation](https://github.com/RevoluzionEcosystem/LuzionProtocolDocumentation)<br>
+4. 💪 Opened PR [#5005](https://github.com/DefiLlama/DefiLlama-Adapters/pull/5005) in [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters)<br>
+5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/DefiLlama-Adapters](https://github.com/RevoluzionEcosystem/DefiLlama-Adapters)<br>
 <!--RECENT_ACTIVITY:end-->
