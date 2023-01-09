@@ -2,7 +2,7 @@ name: 'Update README'
 
 on:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
   #push:
   #  branches:
@@ -16,7 +16,7 @@ jobs:
       - name: 'Checkout Repository'
         uses: actions/Checkout@v3
       - name: 'Update README.md from TEMPLATE.md'
-        uses: RevoluzionEcosystem/RevoluzionEcosystem@main
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
