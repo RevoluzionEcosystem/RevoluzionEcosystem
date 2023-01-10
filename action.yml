@@ -26,7 +26,7 @@ inputs:
 
     description: "The maximum number of lines populated in your readme file"
 
-    default: 5
+    default: 10
 
     required: false
 
