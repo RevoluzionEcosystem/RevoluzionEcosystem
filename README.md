@@ -29,7 +29,7 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 
 [Website](https://revoluzion.io) | [DApp](https://revoluzion.app) | [Telegram](https://t.me/RevoluzionEcosystem) | [Twitter](https://twitter.com/RevoluzionEco) | [CoinMarketCap](https://coinmarketcap.com/community/profile/Revoluzion)
 
-![Revoluzion GitHub stats](https://github-readme-stats.vercel.app/api?username=RevoluzionEcosystem&theme=gotham&show_icons=true)<br>
+![Revoluzion GitHub stats](https://github-readme-stats-n1so6jbrl-revoluziontoken.vercel.app/api?username=RevoluzionEcosystem&theme=gotham&show_icons=true)<br>
 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
