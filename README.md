@@ -34,9 +34,9 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [RevoluzionEcosystem/next.js](https://github.com/RevoluzionEcosystem/next.js) from [vercel/next.js](https://github.com/vercel/next.js)<br>
-2. 🔱 Forked [RevoluzionEcosystem/chains](https://github.com/RevoluzionEcosystem/chains) from [ethereum-lists/chains](https://github.com/ethereum-lists/chains)<br>
-3. 🔱 Forked [RevoluzionEcosystem/web3.js](https://github.com/RevoluzionEcosystem/web3.js) from [web3/web3.js](https://github.com/web3/web3.js)<br>
-4. 🔱 Forked [RevoluzionEcosystem/rubic-sdk](https://github.com/RevoluzionEcosystem/rubic-sdk) from [Cryptorubic/rubic-sdk](https://github.com/Cryptorubic/rubic-sdk)<br>
-5. 🔱 Forked [RevoluzionEcosystem/BEPs](https://github.com/RevoluzionEcosystem/BEPs) from [bnb-chain/BEPs](https://github.com/bnb-chain/BEPs)<br>
+1. 🔱 Forked [RevoluzionEcosystem/chainlist](https://github.com/RevoluzionEcosystem/chainlist) from [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist)<br>
+2. 🔱 Forked [RevoluzionEcosystem/next.js](https://github.com/RevoluzionEcosystem/next.js) from [vercel/next.js](https://github.com/vercel/next.js)<br>
+3. 🔱 Forked [RevoluzionEcosystem/chains](https://github.com/RevoluzionEcosystem/chains) from [ethereum-lists/chains](https://github.com/ethereum-lists/chains)<br>
+4. 🔱 Forked [RevoluzionEcosystem/web3.js](https://github.com/RevoluzionEcosystem/web3.js) from [web3/web3.js](https://github.com/web3/web3.js)<br>
+5. 🔱 Forked [RevoluzionEcosystem/rubic-sdk](https://github.com/RevoluzionEcosystem/rubic-sdk) from [Cryptorubic/rubic-sdk](https://github.com/Cryptorubic/rubic-sdk)<br>
 <!--RECENT_ACTIVITY:end-->
