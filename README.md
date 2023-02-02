@@ -34,9 +34,9 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [RevoluzionEcosystem/howler.js](https://github.com/RevoluzionEcosystem/howler.js) from [goldfire/howler.js](https://github.com/goldfire/howler.js)<br>
-2. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion-Audits](https://github.com/RevoluzionEcosystem/Revoluzion-Audits)<br>
-3. 🔱 Forked [RevoluzionEcosystem/chainlist](https://github.com/RevoluzionEcosystem/chainlist) from [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist)<br>
-4. 🔱 Forked [RevoluzionEcosystem/next.js](https://github.com/RevoluzionEcosystem/next.js) from [vercel/next.js](https://github.com/vercel/next.js)<br>
-5. 🔱 Forked [RevoluzionEcosystem/chains](https://github.com/RevoluzionEcosystem/chains) from [ethereum-lists/chains](https://github.com/ethereum-lists/chains)<br>
+1. 🤝 Became collaborator on [RevoluzionEcosystem/endpoints](https://github.com/RevoluzionEcosystem/endpoints)<br>
+2. 📔 Created new repository [RevoluzionEcosystem/endpoints](https://github.com/RevoluzionEcosystem/endpoints)<br>
+3. 🔱 Forked [RevoluzionEcosystem/howler.js](https://github.com/RevoluzionEcosystem/howler.js) from [goldfire/howler.js](https://github.com/goldfire/howler.js)<br>
+4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion-Audits](https://github.com/RevoluzionEcosystem/Revoluzion-Audits)<br>
+5. 🔱 Forked [RevoluzionEcosystem/chainlist](https://github.com/RevoluzionEcosystem/chainlist) from [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist)<br>
 <!--RECENT_ACTIVITY:end-->
