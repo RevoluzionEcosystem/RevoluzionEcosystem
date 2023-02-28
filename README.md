@@ -1,5 +1,5 @@
 <img
-  src="http://revoluzion.io/wp-content/uploads/2022/12/RevoluzionFull-1.png"
+  src="http://revoluzion.io/SignatureLogo.png"
   alt="Alt text"
   title="Revoluzion"
   style="display: inline-block; margin: 0 auto; max-width: 200px">
