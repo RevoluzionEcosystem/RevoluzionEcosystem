@@ -19,6 +19,8 @@ Revoluzion Payment Receiver : 0xEa54EC4f5ec49e531C795D96204501D5CAe836E9
 Revoluzion Payment Receiver / Counters : 0x8e9f166748526c42f920071cAC69B05dC83be540
 
 AirDrop : 0x157E4db6D6489583D7C312b5EA44DCFbE3D7921f
+
+Raffle Distribution System (RDS): 0xD4D1966740Dce06C0d1ca5C542e134BFB14062c8
 </br>
 </br>
 </br>
