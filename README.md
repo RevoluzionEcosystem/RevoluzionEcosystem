@@ -34,9 +34,9 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [RevoluzionEcosystem/opendax](https://github.com/RevoluzionEcosystem/opendax) from [openware/opendax](https://github.com/openware/opendax)<br>
+1. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
 2. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
-3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
-4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
-5. 🔱 Forked [RevoluzionEcosystem/charting-library-tutorial](https://github.com/RevoluzionEcosystem/charting-library-tutorial) from [tradingview/charting-library-tutorial](https://github.com/tradingview/charting-library-tutorial)<br>
+3. 🔱 Forked [RevoluzionEcosystem/opendax](https://github.com/RevoluzionEcosystem/opendax) from [openware/opendax](https://github.com/openware/opendax)<br>
+4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
+5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
 <!--RECENT_ACTIVITY:end-->
