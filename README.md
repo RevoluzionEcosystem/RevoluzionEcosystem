@@ -37,6 +37,4 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 1. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
 2. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
 3. 🔱 Forked [RevoluzionEcosystem/opendax](https://github.com/RevoluzionEcosystem/opendax) from [openware/opendax](https://github.com/openware/opendax)<br>
-4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
-5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
 <!--RECENT_ACTIVITY:end-->
