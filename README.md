@@ -34,7 +34,8 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [RevoluzionEcosystem/Client-PandaFinance](https://github.com/RevoluzionEcosystem/Client-PandaFinance)<br>
-2. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
+1. 🤝 Became collaborator on [RevoluzionEcosystem/Client-PandaFinance](https://github.com/RevoluzionEcosystem/Client-PandaFinance)<br>
+2. 📔 Created new repository [RevoluzionEcosystem/Client-PandaFinance](https://github.com/RevoluzionEcosystem/Client-PandaFinance)<br>
 3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
+4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion](https://github.com/RevoluzionEcosystem/Revoluzion)<br>
 <!--RECENT_ACTIVITY:end-->
