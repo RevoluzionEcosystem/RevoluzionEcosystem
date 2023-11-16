@@ -34,9 +34,9 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
-2. 📔 Created new repository [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
-3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Client-PandaFinance](https://github.com/RevoluzionEcosystem/Client-PandaFinance)<br>
+1. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Client-PandaFinance](https://github.com/RevoluzionEcosystem/Client-PandaFinance)<br>
+2. 🤝 Became collaborator on [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
+3. 📔 Created new repository [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
 4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Client-PandaFinance](https://github.com/RevoluzionEcosystem/Client-PandaFinance)<br>
 5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Client-PandaFinance](https://github.com/RevoluzionEcosystem/Client-PandaFinance)<br>
 <!--RECENT_ACTIVITY:end-->
