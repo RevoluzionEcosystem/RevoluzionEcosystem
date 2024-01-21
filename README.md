@@ -34,8 +34,8 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
-2. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
+1. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
+2. ⬆️ Pushed 2 commit(s) to [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
 3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
 4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
 5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3](https://github.com/RevoluzionEcosystem/WhatDoYouMeme-Dapp-V3)<br>
