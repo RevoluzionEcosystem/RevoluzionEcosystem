@@ -1,5 +1,5 @@
 <img
-  src="http://revoluzion.io/assets/rvz.svg"
+  src="http://revoluzion.io/rvz.svg"
   alt="Alt text"
   title="Revoluzion"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
