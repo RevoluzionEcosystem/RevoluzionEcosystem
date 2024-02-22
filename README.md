@@ -2,7 +2,7 @@
   src="http://revoluzion.io/rvz.svg"
   alt="Alt text"
   title="Revoluzion"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; width: 100px">
 ## <i>"Revolutionizing The Blockchain Industry"</i><br>
 The future of the multi-dApp ecosystem is here! Revoluzion provides the best of all worlds, a one stop center for users globally.<br>
 
