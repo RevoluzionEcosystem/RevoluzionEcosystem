@@ -34,9 +34,9 @@ Features like launchpad, DEX swap and audit/smart contract services allow users 
 ### Revoluzion Recent Activity
 <!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [urbotbro/BRO-BOT](https://github.com/urbotbro/BRO-BOT)<br>
-2. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion-Audits](https://github.com/RevoluzionEcosystem/Revoluzion-Audits)<br>
-3. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
-4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
-5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion-SAFU](https://github.com/RevoluzionEcosystem/Revoluzion-SAFU)<br>
+1. 🤝 Became collaborator on [RevoluzionEcosystem/Client-ARJ](https://github.com/RevoluzionEcosystem/Client-ARJ)<br>
+2. 📔 Created new repository [RevoluzionEcosystem/Client-ARJ](https://github.com/RevoluzionEcosystem/Client-ARJ)<br>
+3. ⬆️ Pushed 1 commit(s) to [urbotbro/BRO-BOT](https://github.com/urbotbro/BRO-BOT)<br>
+4. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/Revoluzion-Audits](https://github.com/RevoluzionEcosystem/Revoluzion-Audits)<br>
+5. ⬆️ Pushed 1 commit(s) to [RevoluzionEcosystem/RevoluzionEcosystem](https://github.com/RevoluzionEcosystem/RevoluzionEcosystem)<br>
 <!--RECENT_ACTIVITY:end-->
